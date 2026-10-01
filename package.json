@@ -1,0 +1,12 @@
+{
+  "name": "gestion-taches",
+  "version": "1.0.0",
+  "description": "Petit gestionnaire de tâches en ligne de commande",
+  "main": "gestion-taches.js",
+  "bin": {
+    "gestion-taches": "./gestion-taches.js"
+  },
+  "scripts": {
+    "start": "node gestion-taches.js"
+  }
+}
